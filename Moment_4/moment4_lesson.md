@@ -1,8 +1,5 @@
 # Programming 1 – Moment 4: Functions and Modular Code
 
-## 🕐 Lesson Duration
-**6 hours**
-
 ---
 
 ## 🎯 Lesson Goals

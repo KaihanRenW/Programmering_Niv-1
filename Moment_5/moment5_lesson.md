@@ -1,8 +1,5 @@
 # Programming 1 – Moment 5: Lists and Collections
 
-## 🕐 Lesson Duration
-**6 hours**
-
 ---
 
 ## 🎯 Lesson Goals

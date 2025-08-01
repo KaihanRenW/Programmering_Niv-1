@@ -1,8 +1,5 @@
 # Programming 1 – Moment 6: File Handling and Final Practice
 
-## 🕐 Lesson Duration
-**6 hours**
-
 ---
 
 ## 🎯 Lesson Goals

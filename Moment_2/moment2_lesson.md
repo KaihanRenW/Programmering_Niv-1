@@ -1,10 +1,5 @@
 # Programming 1 – Moment 2: Conditions and Control Structures
 
-## 🕐 Lesson Duration
-**6 hours**
-
----
-
 ## 🎯 Lesson Goals
 By the end of this lesson, you should be able to:
 

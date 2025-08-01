@@ -1,8 +1,5 @@
 # Programming 1 – Moment 3: Loops and Repetition
 
-## 🕐 Lesson Duration
-**6 hours**
-
 ---
 
 ## 🎯 Lesson Goals

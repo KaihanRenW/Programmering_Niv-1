@@ -1,8 +1,4 @@
 # Programming 1 – Moment 1: Introduction to Programming with Python
-
-## 🕐 Lesson Duration
-**6 hours**
-
 ---
 
 ## 🎯 Lesson Goals

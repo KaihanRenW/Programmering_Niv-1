@@ -84,10 +84,3 @@ print("Your name is:", name)
 print("================")
 ```
 
----
-
-## ✅ When you're done...
-
-If you're working in a classroom:
-- Show your teacher your completed exercises
-- Ask questions if you're unsure

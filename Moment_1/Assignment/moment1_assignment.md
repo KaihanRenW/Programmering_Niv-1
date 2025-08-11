@@ -79,5 +79,4 @@ If you're working in a course platform:
 - Make sure your program runs without errors
 
 If you're in class:
-- Show your program to the teacher
 - Be ready to explain how your code works
